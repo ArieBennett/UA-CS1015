@@ -1,4 +1,0 @@
-qrcode
-numpy
-matplotlib
-os
